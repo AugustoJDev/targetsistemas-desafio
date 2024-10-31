@@ -1,0 +1,40 @@
+{
+    "empresa": {
+        "semana_1": {
+            "segunda": 1000,
+            "terca": 700,
+            "quarta": 890,
+            "quinta": 950,
+            "sexta": 460,
+            "sabado": 0,
+            "domingo": 0
+        },
+        "semana_2": {
+            "segunda": 750,
+            "terca": 567,
+            "quarta": 260,
+            "quinta": 256,
+            "sexta": 190,
+            "sabado": 0,
+            "domingo": 0
+        },
+        "semana_3": {
+            "segunda": 330,
+            "terca": 742,
+            "quarta": 379,
+            "quinta": 583,
+            "sexta": 753,
+            "sabado": 0,
+            "domingo": 0
+        },
+        "semana_4": {
+            "segunda": 290,
+            "terca": 1489,
+            "quarta": 167,
+            "quinta": 894,
+            "sexta": 159,
+            "sabado": 0,
+            "domingo": 0
+        }
+    }
+}
